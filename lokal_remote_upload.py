@@ -1,0 +1,1 @@
+#bu dosyayi lokalimde olusturup git e push ediyorum.
